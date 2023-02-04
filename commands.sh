@@ -1,0 +1,1 @@
+docker-compose build --no-cache --tag color-blindness-api:latest
